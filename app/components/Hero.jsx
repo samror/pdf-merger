@@ -264,7 +264,7 @@ const Hero = () => {
                 onClick={handleButtonClick}
               >
                 <Image
-                  src="/vector.svg"
+                  src="/Vector.svg"
                   alt="Logo"
                   height={26}
                   width={23}
