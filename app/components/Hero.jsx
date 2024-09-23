@@ -301,7 +301,7 @@ const Hero = () => {
 
           <div className="bg-white rounded-[20px] p-[12px] mt-[40px] lg:w-[770px] w-full lg:h-[323px] shadow-custom-black z-100">
             <div className="flex flex-row md:gap-[0px] gap-[5px] justify-between pb-[10px]">
-              <div className="flex md:flex-row flex-col items-center md:gap-[20px] gap-[10px]">
+              <div className="flex lg:flex-row flex-col items-center md:gap-[20px] gap-[10px]">
                 <input
                   ref={fileInputRef}
                   type="file"
