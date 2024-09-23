@@ -312,7 +312,7 @@ const Hero = () => {
                 />
                 <button
                   onClick={handleButtonClick}
-                  className="bg-[#F6F6F6] text-red hover:bg-red hover:text-white p-[12px] flex flex-row gap-[10px] h-[33px] w-[115px] text-[14px] justify-center items-center font-semibold border-[1px] border-red rounded-[6px] group"
+                  className="bg-[#F6F6F6] text-red hover:bg-red hover:text-white p-[12px] flex flex-row gap-[10px] h-[33px] w-[120px] text-[14px] justify-center items-center font-semibold border-[1px] border-red rounded-[6px] group"
                 >
                   <Image
                     src="/add.svg"
