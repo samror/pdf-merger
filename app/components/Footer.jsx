@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 const Footer = () => {
   return (
-    <div className=" bg-[#333333] pt-[70px] pb-[30px] mt-[80px]">
+    <div className=" bg-[#333333] pt-[70px] pb-[30px] mt-[80px] lg:px-[70px]  px-[20px] ">
       <div className="lg:w-[1278px] w-full lg:px-[0px] px-[20px]  mx-auto  ">
         <div className="flex lg:flex-row flex-col lg:gap-[0px] gap-[40px] justify-between border-b-[1px] border-[#DEDEDE] pb-[20px]">
           <div className="flex flex-col w-[215px] gap-[10px]">
