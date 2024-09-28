@@ -1,4 +1,3 @@
-import Logo from "/public/logo.png";
 import Image from "next/image";
 
 export const Navbar = () => {
@@ -8,7 +7,7 @@ export const Navbar = () => {
         <div className="">
           <div className="flex md:flex-row flex-col md:gap-[0px] gap-[20px] items-center justify-between">
             <Image
-              src={Logo}
+              src="/logo.svg"
               alt="Logo"
               height={40}
               width={40}
