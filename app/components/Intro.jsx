@@ -2,7 +2,7 @@ import React from "react";
 
 const Intro = () => {
   return (
-    <div className=" flex flex-col mx-auto lg:max-w-[890px] w-full gap-[40px]   lg:px-[0px] px-[20px] ">
+    <div className=" flex flex-col mx-auto lg:max-w-[890px] w-full gap-[40px]   lg:px-[0px] px-[20px] xl:mt-[0px] mt-[70px] ">
       <div className=" flex flex-col border-t-[1px] border-[#DEDEDE] gap-[10px] lg:pt-[70px] pt-[30px] lg:mt-[70px] mt-[50px]">
         <h2 className="text-[26px] font-extrabold">
           Introduction to Merge PDF online

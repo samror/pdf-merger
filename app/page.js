@@ -8,7 +8,7 @@ export default function Home() {
     <main className="overflow-hidden">
       <Hero />
       <Curved />
-      <HowWorks />
+
       <Intro />
       <Footer />
     </main>
