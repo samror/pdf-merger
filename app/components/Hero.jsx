@@ -466,7 +466,7 @@ const Hero = () => {
           </div>
           <button
             onClick={mergePdfs}
-            className="bg-red align-center mt-[10px] mb-[10px]  text-white lg:text-[18px]  text-[15px] flex flex-row  justify-center items-center font-bold lg:w-[237px] lg:h-[49px] h-[40px] lg:px-[50px] px-[30px] lg:py-[12px] py-[10px] rounded-[10px] hover:shadow-[0px_0px_14px_rgba(254,51,35,0.8)]  "
+            className="bg-red align-center mt-[20px] mb-[10px]  text-white lg:text-[18px]  text-[18px] flex flex-row  justify-center items-center font-bold lg:w-[237px] lg:h-[49px] h-[40px] lg:px-[50px] px-[30px] lg:py-[12px] py-[10px] rounded-[10px] hover:shadow-[0px_0px_14px_rgba(254,51,35,0.8)]  "
           >
             Merge and Save
           </button>

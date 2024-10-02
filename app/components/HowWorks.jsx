@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const HowWorks = () => {
   return (
-    <div className="flex md:flex-row flex-col xl:mt-[0px] mt-[70px] justify-center  w-full lg:gap-[100px] gap-[20px] lg:h-[276px]  px-[20px]  ">
+    <div className="flex md:flex-row flex-col xl:mt-[40px] mt-[70px] justify-center  w-full lg:gap-[100px] gap-[20px] lg:h-[276px]  px-[20px]  ">
       <div className="sm:w-[365px] xs:w-[315px] h-[276px] flex flex-col md:pr-[0px] sm:pr-[10px] gap-[10px]">
         <h2 className="text-[#333333] font-extrabold lg:text-[34px] text-[25px]">
           How it Works
